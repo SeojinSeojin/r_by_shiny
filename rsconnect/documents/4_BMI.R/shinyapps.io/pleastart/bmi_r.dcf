@@ -1,0 +1,13 @@
+name: bmi_r
+title: bmi_r
+username:
+account: pleastart
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1956568
+bundleId: 2888600
+url: https://pleastart.shinyapps.io/bmi_r/
+when: 1584408997.9847
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: 2_basic_examples.R
